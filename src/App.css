@@ -1,0 +1,38 @@
+header {
+  color: #ffffff;
+}
+
+header .btn-danger {
+  margin-right: .5em;
+}
+
+section {
+  margin: 3em 8em !important;
+}
+
+.card {
+  margin-bottom: 1em;
+}
+
+.popover {
+  width: 500px;
+  right: 58px !important;
+  top: 42px;
+  left: auto;
+}
+
+.popover i {
+  position: absolute;
+  right: 25px;
+  top: -10px;
+}
+
+.dropdown-menu {
+  left: auto;
+  right: 0;
+  display: block;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
