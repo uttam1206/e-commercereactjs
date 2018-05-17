@@ -2,6 +2,7 @@ const data = [
     {
       "catId": 1,
       "catName": "Category One",
+      "catDesc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
       "subCatList": [
           {
               id: 1,
@@ -50,6 +51,7 @@ const data = [
     {
         "catId": 2,
         "catName": "Category Two",
+        "catDesc": "123 Some quick example text to build on the card title and make up the bulk of the card's content.",
         "subCatList": [
             {
                 id: 1,
@@ -98,6 +100,7 @@ const data = [
     {
         "catId": 3,
         "catName": "Category Three",
+        "catDesc": "345 Some quick example text to build on the card title and make up the bulk of the card's content.",
         "subCatList": [
             {
                 id: 1,
@@ -146,6 +149,7 @@ const data = [
     {
         "catId": 4,
         "catName": "Category Four",
+        "catDesc": "567 Some quick example text to build on the card title and make up the bulk of the card's content.",
         "subCatList": [
             {
                 id: 1,
@@ -194,6 +198,7 @@ const data = [
     {
         "catId": 5,
         "catName": "Category Five",
+        "catDesc": "890 Some quick example text to build on the card title and make up the bulk of the card's content.",
         "subCatList": [
             {
                 id: 1,
