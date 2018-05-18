@@ -3,7 +3,7 @@ header {
 }
 
 header .btn-danger {
-  margin-right: .5em;
+  margin-right: 0.5em;
 }
 
 section {
@@ -35,4 +35,13 @@ section {
 
 .list-group-item {
   cursor: pointer;
+}
+
+footer {
+  position: static;
+  bottom: 0;
+  width: 100%;
+  background-color: dimgrey;
+  color: #ffffff !important;
+  height: 50px;
 }

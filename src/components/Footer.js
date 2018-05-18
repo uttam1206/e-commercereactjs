@@ -6,8 +6,8 @@ class Footer extends Component {
         return (
             <footer>
                 <div className="container">
-                    <div className="row justify-content-center">
-                        <p className="text-info">@Copy Right 2018</p>
+                    <div className="row justify-content-center align-self-center">
+                        <p>@Copy Right 2018</p>
                     </div>
                 </div>
             </footer>
